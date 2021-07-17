@@ -20,18 +20,13 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently pursuing my BTech in the domain of CSE in GIET UNIVERSITY, Gunupur
 
-- 🌱 I’m currently learning *Data Structures Algorithms*
+- 🌱 I’m currently learning *Web Development*
 
 - 📫 Contact me through :<br>
    LinkedIn - <a href="https://www.linkedin.com/in/ankita-priyadarsini-sahoo-6a79771b1/" target="_blank"> Click here </a><br>
    Gmail - ankitapriyadarsini24@gmail.com
 
-<h3 align="left">My coding profiles:</h3>
-<p align="left">
 
-<a href="https://www.codechef.com/users/amit_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amit_45" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amit_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="amit_45" height="30" width="40" /></a>
-</p>
 
 
 
