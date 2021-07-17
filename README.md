@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *Data Structures Algorithms*
 
 - 📫 Contact me through :<br>
-   LinkedIn - <a href="https://www.linkedin.com/in/amit-patnaik-ab2913203/" target="_blank"> Click here </a><br>
-   Gmail - amitpatnaik4518@gmail.com
+   LinkedIn - <a href="https://www.linkedin.com/in/ankita-priyadarsini-sahoo-6a79771b1/" target="_blank"> Click here </a><br>
+   Gmail - ankitapriyadarsini24@gmail.com
 
 <h3 align="left">My coding profiles:</h3>
 <p align="left">
